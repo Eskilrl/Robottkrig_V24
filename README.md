@@ -1,6 +1,6 @@
 # Robottkrig_V24
 
-# Dette er hvor den legendariske krigeren 
+# Hampter
 
 
 
